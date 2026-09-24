@@ -7,7 +7,7 @@ My main interests are NLP, LLMs, speech processing, and deep learning systems. I
 ### Technologies
 
 **ML & Deep Learning:** PyTorch, TensorFlow, Transformers, CUDA  
-**NLP & LLMs:** HuggingFace, Whisper, SentenceTransformers, PEFT, LangChain, VectorDB
+**NLP & LLMs:** HuggingFace, Whisper, SentenceTransformers, PEFT, LangChain, VectorDB  
 **Engineering:** Python, C++, Java, Docker, Kubernetes, AWS, Azure, GCP
 
 ### Currently interested in
