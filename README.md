@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mert
 
-<!--
-**merttahran/merttahran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI/ML Engineer with 3 years of experience in NLP and machine learning, working across research and production systems.
 
-Here are some ideas to get you started:
+My main interests are NLP, LLMs, speech processing, and deep learning systems. I've worked on multilingual NLP systems, ASR, speaker diarization, coreference resolution, and production ML pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+**ML & Deep Learning:** PyTorch, TensorFlow, Transformers, CUDA  
+**NLP & LLMs:** HuggingFace, Whisper, SentenceTransformers, PEFT, LangChain, VectorDB
+**Engineering:** Python, C++, Java, Docker, Kubernetes, AWS, Azure, GCP
+
+### Currently interested in
+
+- LLM inference and optimization
+- NLP and speech systems
+- CUDA and GPU programming
+- Agentic AI systems
+
+[LinkedIn](https://www.linkedin.com/in/mert-tahran/)
